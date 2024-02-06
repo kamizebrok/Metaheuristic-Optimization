@@ -1,0 +1,6 @@
+Algorithm: AtomicOrbitalSearch ; TestFunction: SphereFunction ; I: 100 ; M: 3 ; D: 2 ; FBest: 7,027438050469064E-25 ; XBest: -5,48656875928352E-13   6,338134090909148E-13 ; NumberOfEvaluationFitnessFunction: 603 
+Algorithm: AtomicOrbitalSearch ; TestFunction: SphereFunction ; I: 200 ; M: 3 ; D: 2 ; FBest: 5,997136237512542E-45 ; XBest: 2,757103764493446E-23   -7,236694079960924E-23 ; NumberOfEvaluationFitnessFunction: 1203 
+Algorithm: AtomicOrbitalSearch ; TestFunction: SphereFunction ; I: 300 ; M: 3 ; D: 2 ; FBest: 2,5060578788923905E-70 ; XBest: -3,478538929225875E-36   -1,5443625053953465E-35 ; NumberOfEvaluationFitnessFunction: 1803 
+Algorithm: Jellyfish ; TestFunction: SphereFunction ; I: 100 ; M: 3 ; D: 2 ; FBest: 0,012449259209124541 ; XBest: 0,0015116842293200785   -0,1115660074570897 ; NumberOfEvaluationFitnessFunction: 744 
+Algorithm: Jellyfish ; TestFunction: SphereFunction ; I: 200 ; M: 3 ; D: 2 ; FBest: 9,65037283111492 ; XBest: -3,0324767746196812   0,6741345878288207 ; NumberOfEvaluationFitnessFunction: 1476 
+Algorithm: Jellyfish ; TestFunction: SphereFunction ; I: 300 ; M: 3 ; D: 2 ; FBest: 20,050285216854967 ; XBest: 3,697653292659159   -2,5254000364579565 ; NumberOfEvaluationFitnessFunction: 2205 

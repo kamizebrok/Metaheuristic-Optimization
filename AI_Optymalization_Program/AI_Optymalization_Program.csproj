@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="BouncyCastle.NetCore" Version="2.2.1" />
+    <PackageReference Include="itext.bouncy-castle-fips-adapter" Version="8.0.2" />
+    <PackageReference Include="itext7" Version="8.0.2" />
+    <PackageReference Include="itext7.bouncy-castle-adapter" Version="8.0.2" />
+    <PackageReference Include="itext7.pdfhtml" Version="5.0.2" />
+    <PackageReference Include="MathNet.Numerics" Version="5.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="OptymalizationAlgorithm">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\Interfaces\OptymalizationAlgorithm.dll</HintPath>
+    </Reference>
+    <Reference Include="OptymalizationAlgorithm">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\Interfaces\OptymalizationAlgorithm.dll</HintPath>
+    </Reference>
+    <Reference Include="OptymalizationAlgorithm">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\Interfaces\OptymalizationAlgorithm.dll</HintPath>
+    </Reference>
+    <Reference Include="IFitnessFunction">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\Interfaces\IFitnessFunction.dll</HintPath>
+    </Reference>
+    <Reference Include="AtomicOrbitalSearch">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\OptimizationAlgorithms\AtomicOrbitalSearch.dll</HintPath>
+    </Reference>
+    <Reference Include="Jellyfish">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\OptimizationAlgorithms\Jellyfish.dll</HintPath>
+    </Reference>
+    <Reference Include="SphereFunction">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\TestFunctions\SphereFunction.dll</HintPath>
+    </Reference>
+    <Reference Include="RastriginFunction">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\TestFunctions\RastriginFunction.dll</HintPath>
+    </Reference>
+    <Reference Include="RosenbrockFunction">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\TestFunctions\RosenbrockFunction.dll</HintPath>
+    </Reference>
+    <Reference Include="HimmelblausFunctionN6">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\TestFunctions\HimmelblausFunctionN6.dll</HintPath>
+    </Reference>
+    <Reference Include="IFitnessFunction">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\Interfaces\IFitnessFunction.dll</HintPath>
+    </Reference>
+    <Reference Include="OptymalizationAlgorithm">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\Interfaces\OptymalizationAlgorithm.dll</HintPath>
+    </Reference>
+    <Reference Include="AtomicOrbitalSearch">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\OptimizationAlgorithms\AtomicOrbitalSearch.dll</HintPath>
+    </Reference>
+    <Reference Include="Jellyfish">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\OptimizationAlgorithms\Jellyfish.dll</HintPath>
+    </Reference>
+    <Reference Include="BealeFunction">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\TestFunctions\BealeFunction.dll</HintPath>
+    </Reference>
+    <Reference Include="BukinFunctionN6">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\TestFunctions\BukinFunctionN6.dll</HintPath>
+    </Reference>
+    <Reference Include="HimmelblausFunctionN6">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\TestFunctions\HimmelblausFunctionN6.dll</HintPath>
+    </Reference>
+    <Reference Include="RastriginFunction">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\TestFunctions\RastriginFunction.dll</HintPath>
+    </Reference>
+    <Reference Include="RosenbrockFunction">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\TestFunctions\RosenbrockFunction.dll</HintPath>
+    </Reference>
+    <Reference Include="SphereFunction">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\TestFunctions\SphereFunction.dll</HintPath>
+    </Reference>
+    <Reference Include="OptymalizationAlgorithm">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\Interfaces\OptymalizationAlgorithm.dll</HintPath>
+    </Reference>
+    <Reference Include="IFitnessFunction">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\Interfaces\IFitnessFunction.dll</HintPath>
+    </Reference>
+    <Reference Include="BealeFunction">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\TestFunctions\BealeFunction.dll</HintPath>
+    </Reference>
+    <Reference Include="BukinFunctionN6">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\TestFunctions\BukinFunctionN6.dll</HintPath>
+    </Reference>
+    <Reference Include="HimmelblausFunctionN6">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\TestFunctions\HimmelblausFunctionN6.dll</HintPath>
+    </Reference>
+    <Reference Include="RastriginFunction">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\TestFunctions\RastriginFunction.dll</HintPath>
+    </Reference>
+    <Reference Include="RosenbrockFunction">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\TestFunctions\RosenbrockFunction.dll</HintPath>
+    </Reference>
+    <Reference Include="SphereFunction">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\TestFunctions\SphereFunction.dll</HintPath>
+    </Reference>
+    <Reference Include="AtomicOrbitalSearch">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\OptimizationAlgorithms\AtomicOrbitalSearch.dll</HintPath>
+    </Reference>
+    <Reference Include="Jellyfish">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\OptimizationAlgorithms\Jellyfish.dll</HintPath>
+    </Reference>
+    <Reference Include="Jellyfish">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\OptimizationAlgorithms\Jellyfish.dll</HintPath>
+    </Reference>
+    <Reference Include="AtomicOrbitalSearch">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\OptimizationAlgorithms\AtomicOrbitalSearch.dll</HintPath>
+    </Reference>
+    <Reference Include="DrZielonka">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\TestFunctions\DrZielonka.dll</HintPath>
+    </Reference>
+    <Reference Include="DrBrociek">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\TestFunctions\DrBrociek.dll</HintPath>
+    </Reference>
+    <Reference Include="DrBrociek">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\TestFunctions\DrBrociek.dll</HintPath>
+    </Reference>
+    <Reference Include="DrZielonka">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\TestFunctions\DrZielonka.dll</HintPath>
+    </Reference>
+    <Reference Include="OptymalizationAlgorithm">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\Interfaces\OptymalizationAlgorithm.dll</HintPath>
+    </Reference>
+    <Reference Include="Jellyfish">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\OptimizationAlgorithms\Jellyfish.dll</HintPath>
+    </Reference>
+    <Reference Include="AtomicOrbitalSearch">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\OptimizationAlgorithms\AtomicOrbitalSearch.dll</HintPath>
+    </Reference>
+    <Reference Include="AtomicOrbitalSearch">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\OptimizationAlgorithms\AtomicOrbitalSearch.dll</HintPath>
+    </Reference>
+    <Reference Include="Jellyfish">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\OptimizationAlgorithms\Jellyfish.dll</HintPath>
+    </Reference>
+    <Reference Include="AtomicOrbitalSearch">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\OptimizationAlgorithms\AtomicOrbitalSearch.dll</HintPath>
+    </Reference>
+    <Reference Include="OptymalizationAlgorithm">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\Interfaces\OptymalizationAlgorithm.dll</HintPath>
+    </Reference>
+    <Reference Include="Jellyfish">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\OptimizationAlgorithms\Jellyfish.dll</HintPath>
+    </Reference>
+    <Reference Include="OptymalizationAlgorithm">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\Interfaces\OptymalizationAlgorithm.dll</HintPath>
+    </Reference>
+    <Reference Include="AtomicOrbitalSearch">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\OptimizationAlgorithms\AtomicOrbitalSearch.dll</HintPath>
+    </Reference>
+    <Reference Include="Jellyfish">
+      <HintPath>E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\OptimizationAlgorithms\Jellyfish.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="TestFunctions\" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,122 @@
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\AI_Optymalization_Program.exe
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\AI_Optymalization_Program.deps.json
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\AI_Optymalization_Program.runtimeconfig.json
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\AI_Optymalization_Program.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\AI_Optymalization_Program.pdb
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\obj\Debug\net6.0-windows\App.g.cs
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\obj\Debug\net6.0-windows\AI_Optymalization_Program_MarkupCompile.cache
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\obj\Debug\net6.0-windows\AI_Optymalization_Program.g.resources
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\obj\Debug\net6.0-windows\AI_Optymalization_Program.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\obj\Debug\net6.0-windows\AI_Optymalization_Program.AssemblyInfoInputs.cache
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\obj\Debug\net6.0-windows\AI_Optymalization_Program.AssemblyInfo.cs
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\obj\Debug\net6.0-windows\AI_Optymalization_Program.csproj.CoreCompileInputs.cache
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\obj\Debug\net6.0-windows\AI_Optymalization_Program.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\obj\Debug\net6.0-windows\refint\AI_Optymalization_Program.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\obj\Debug\net6.0-windows\AI_Optymalization_Program.pdb
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\obj\Debug\net6.0-windows\AI_Optymalization_Program.genruntimeconfig.cache
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\obj\Debug\net6.0-windows\ref\AI_Optymalization_Program.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\OptymalizationAlgorithm.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\obj\Debug\net6.0-windows\AI_Optymalization_Program.csproj.AssemblyReference.cache
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\obj\Debug\net6.0-windows\AI_Optymalization_Program.csproj.CopyComplete
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\IFitnessFunction.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\AtomicOrbitalSearch.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\Jellyfish.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\MathNet.Numerics.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\HimmelblausFunctionN6.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\RastriginFunction.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\RosenbrockFunction.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\SphereFunction.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\BealeFunction.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\BukinFunctionN6.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\itext.barcodes.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\itext.bouncy-castle-connector.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\itext.forms.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\itext.io.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\itext.kernel.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\itext.layout.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\itext.pdfa.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\itext.sign.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\itext.styledxmlparser.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\itext.svg.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\itext.commons.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\itext.bouncy-castle-adapter.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\bc-fips-1.0.2.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\bcpkix-fips-1.0.2.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\itext.bouncy-castle-fips-adapter.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\itext.html2pdf.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\DrZielonka.dll
+E:\Sztuczna Inteligencja Projekt\sztuczna-inteligencja\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\DrBrociek.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\AI_Optymalization_Program.exe
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\AI_Optymalization_Program.deps.json
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\AI_Optymalization_Program.runtimeconfig.json
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\AI_Optymalization_Program.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\AI_Optymalization_Program.pdb
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\itext.barcodes.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\itext.forms.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\itext.io.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\itext.kernel.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\itext.layout.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\itext.pdfa.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\itext.sign.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\itext.styledxmlparser.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\itext.svg.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\itext.bouncy-castle-adapter.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\bc-fips-1.0.2.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\bcpkix-fips-1.0.2.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\itext.bouncy-castle-fips-adapter.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\itext.commons.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\itext.html2pdf.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\MathNet.Numerics.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\AtomicOrbitalSearch.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\BealeFunction.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\BukinFunctionN6.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\DrBrociek.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\DrZielonka.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\HimmelblausFunctionN6.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\IFitnessFunction.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\Jellyfish.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\OptymalizationAlgorithm.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\RastriginFunction.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\RosenbrockFunction.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\bin\Debug\net6.0-windows\SphereFunction.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\obj\Debug\net6.0-windows\AI_Optymalization_Program.csproj.AssemblyReference.cache
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\obj\Debug\net6.0-windows\AI_Optymalization_Program_MarkupCompile.cache
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\obj\Debug\net6.0-windows\AI_Optymalization_Program.g.resources
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\obj\Debug\net6.0-windows\AI_Optymalization_Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\obj\Debug\net6.0-windows\AI_Optymalization_Program.AssemblyInfoInputs.cache
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\obj\Debug\net6.0-windows\AI_Optymalization_Program.AssemblyInfo.cs
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\obj\Debug\net6.0-windows\AI_Optymalization_Program.csproj.CoreCompileInputs.cache
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\obj\Debug\net6.0-windows\AI_Optymalization_Program.csproj.CopyComplete
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\obj\Debug\net6.0-windows\AI_Optymalization_Program.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\obj\Debug\net6.0-windows\refint\AI_Optymalization_Program.dll
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\obj\Debug\net6.0-windows\AI_Optymalization_Program.pdb
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\obj\Debug\net6.0-windows\AI_Optymalization_Program.genruntimeconfig.cache
+C:\Users\zebro\Downloads\sztuczna-inteligencja-Final (1)\sztuczna-inteligencja-Final\AI_Optymalization_Program\AI_Optymalization_Program\obj\Debug\net6.0-windows\ref\AI_Optymalization_Program.dll

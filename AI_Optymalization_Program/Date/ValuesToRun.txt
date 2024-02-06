@@ -1,0 +1,5 @@
+OptymalizationAlgorithms: AtomicOrbitalSearch Jellyfish       
+TestFunctions:  SphereFunction  
+I:    100   200   300   
+D:    2     
+M:    3     

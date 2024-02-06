@@ -1,0 +1,80 @@
+﻿<Window x:Class="AI_Optymalization_Program.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Metaheuristic Optimization" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Center" Margin="10">
+            <ListBox Name="ListBoxAlgorithms" Width="200" Height="120" SelectionMode="Multiple" Margin="0,0,50,0"/>
+            <ListBox Name="ListBoxTestFunctions" Width="200"  Height="120" SelectionMode="Multiple"/>
+        </StackPanel>
+        <Grid Grid.Row="1" Margin="10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Column="0">
+                <Label Content="Start Iteration : "/>
+                <TextBox Name="TextBoxStartIteration" Width="100" Height="20" Text="100" TextAlignment="Center"/>
+
+                <Label Content="Jump Iteration : "/>
+                <TextBox Name="TextBoxJumpIteration" Width="100" Height="20" Text="100" TextAlignment="Center"/>
+
+                <Label Content="Amount Of Iteration : "/>
+                <TextBox Name="TextBoxAmountOfIteration" Width="100" Height="20" Text="10" TextAlignment="Center"/>
+            </StackPanel>
+
+            <!-- StackPanel 2 -->
+            <StackPanel Grid.Column="1">
+                <Label Content="Start Dimention : "/>
+                <TextBox Name="TextBoxStartDimention" Width="100" Height="20" Text="2" TextAlignment="Center"/>
+
+                <Label Content="Jump Dimention : "/>
+                <TextBox Name="TextBoxJumpDimention" Width="100" Height="20" Text="1" TextAlignment="Center"/>
+
+                <Label Content="Amount Of Dimention : "/>
+                <TextBox Name="TextBoxAmountOfDimention" Width="100" Height="20" Text="1" TextAlignment="Center"/>
+            </StackPanel>
+
+            <!-- StackPanel 3 -->
+            <StackPanel Grid.Column="2">
+                <Label Content="Start Population : "/>
+                <TextBox Name="TextBoxStartPopulation" Width="100" Height="20" Text="3" TextAlignment="Center"/>
+
+                <Label Content="Jump Population : "/>
+                <TextBox Name="TextBoxJumpPopulation" Width="100" Height="20" Text="1" TextAlignment="Center"/>
+
+                <Label Content="Amount Of Population : "/>
+                <TextBox Name="TextBoxAmountOfPopulation" Width="100" Height="20" Text="1" TextAlignment="Center"/>
+            </StackPanel>
+        </Grid>
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center" Margin="10">
+            <ProgressBar x:Name="ProgressBar" Minimum="0" Maximum="100" Value="0" VerticalAlignment="Center" HorizontalAlignment="Center" Width="700" Height="30" Visibility="Visible">
+                <ProgressBar.Template>
+                    <ControlTemplate TargetType="ProgressBar">
+                        <Grid>
+                            <ProgressBar Value="{TemplateBinding Value}" />
+                            <TextBlock Text="{Binding ElementName=ProgressBar, Path=Value, StringFormat={}{0}%}" VerticalAlignment="Center" HorizontalAlignment="Center" TextAlignment="Center" Foreground="Black"/>
+                            <TextBlock Name="timeLeftText" VerticalAlignment="Center" HorizontalAlignment="Right" TextAlignment="Right" Foreground="Black" Margin="0,0,50,0"/>
+                        </Grid>
+                    </ControlTemplate>
+                </ProgressBar.Template>
+            </ProgressBar>
+        </StackPanel>
+        <StackPanel Grid.Row="3" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10,0,0">
+            <Button Name="ButtonAddAlgorythm" Content="Add Algorythm" Width="120" Height="30" Margin="0,0,20,0" Click="ButtonAddAlgorythm_Click"/>
+            <Button Name="ButtonAddFunction" Content="Add Function" Width="120" Height="30" Margin="0,0,20,0" Click="ButtonAddFunction_Click"/>
+            <Button Name="ButtonContinue" Content="Continue" Width="120" Height="30" Margin="0,0,20,0" Click="ButtonContinue_Click"/>
+            <Button Name="ButtonRunProject" Content="Run Project" Width="120" Height="30" Click="ButtonRunProject_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
